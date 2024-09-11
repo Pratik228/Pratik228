@@ -64,9 +64,9 @@ I'm a passionate software engineer with a strong interest in leveraging technolo
 
 ## 📫 How to reach me
 
-- LinkedIn: [pratikkumarmishra](https://www.linkedin.com/in/pratikkumarmishra/)
-- Portfolio: [pratik228.github.io](https://pratik228.github.io/)
-- LeetCode: [pratik228](https://leetcode.com/pratik228/)
+- LinkedIn: [pratikkumarmishra](https://www.linkedin.com/in/kmishrapratik/)
+- Portfolio: [devpratik](https://devpratik.in/)
+- LeetCode: [pratikmishra79](https://leetcode.com/u/pratikmishra79/)
 - Email: [pratikmishra79@gmail.com](mailto:pratikmishra79@gmail.com)
 
 ## ⚡ Fun fact
